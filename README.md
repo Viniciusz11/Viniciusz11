@@ -12,17 +12,8 @@
 - 🎓 Bacharelado em Ciência da Computação na UNIFOR — conclusão prevista para **06/2027**
 - 🏛️ Pesquisador/Desenvolvedor em projeto científico de **Engenharia de Software + IA Generativa** para a Procuradoria-Geral do Estado (PGE)
 - 🧩 Foco em arquitetura de software, usabilidade e boas práticas (**SOLID**, metodologias ágeis)
-- 📫 Contato: **viniciusworkng@gmail.com**
+- 📫 Contato: **viniciusandradeevangelista2003@gmail.com**
 
----
-
-## 💼 Experiência em destaque
-
-- 🔬 **Projeto Científico (Eng. de Software + IA):** análise e melhoria de processos de desenvolvimento com soluções baseadas em IA Generativa
-- 📦 **Sistema web de gerenciamento de estoque:** cadastro e controle de produtos, integração com bancos relacionais e interfaces responsivas (Java, Python, JavaScript, Node.js e React)
-- 🛠️ **Estágio em Suporte Técnico:** infraestrutura de TI hospitalar — hardware, redes e gestão de chamados
-
----
 
 ## 🚀 Tecnologias que uso
 
