@@ -10,7 +10,7 @@
 
 - 💻 Desenvolvedor **Full Stack** com experiência em **Java, Python e Node.js**
 - 🎓 Bacharelado em Ciência da Computação na UNIFOR — conclusão prevista para **06/2027**
-- 🏛️ Pesquisador/Desenvolvedor em projeto científico de **Engenharia de Software + IA Generativa** para a Procuradoria-Geral do Estado (PGE)
+- 🏛️ Pesquisador/Desenvolvedor em projeto científico de **Engenharia de Software + IA Generativa**
 - 🧩 Foco em arquitetura de software, usabilidade e boas práticas (**SOLID**, metodologias ágeis)
 - 📫 Contato: **viniciusandradeevangelista2003@gmail.com**
 
